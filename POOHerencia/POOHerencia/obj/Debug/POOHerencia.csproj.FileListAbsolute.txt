@@ -1,0 +1,11 @@
+C:\Users\Estudiante\Desktop\gilberto\POOHerencia\POOHerencia\bin\Debug\POOHerencia.exe.config
+C:\Users\Estudiante\Desktop\gilberto\POOHerencia\POOHerencia\bin\Debug\POOHerencia.exe
+C:\Users\Estudiante\Desktop\gilberto\POOHerencia\POOHerencia\bin\Debug\POOHerencia.pdb
+C:\Users\Estudiante\Desktop\gilberto\POOHerencia\POOHerencia\bin\Debug\Classes.dll
+C:\Users\Estudiante\Desktop\gilberto\POOHerencia\POOHerencia\bin\Debug\Classes.pdb
+C:\Users\Estudiante\Desktop\gilberto\POOHerencia\POOHerencia\obj\Debug\POOHerencia.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\gilberto\POOHerencia\POOHerencia\obj\Debug\POOHerencia.Form1.resources
+C:\Users\Estudiante\Desktop\gilberto\POOHerencia\POOHerencia\obj\Debug\POOHerencia.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\gilberto\POOHerencia\POOHerencia\obj\Debug\POOHerencia.csproj.GenerateResource.Cache
+C:\Users\Estudiante\Desktop\gilberto\POOHerencia\POOHerencia\obj\Debug\POOHerencia.exe
+C:\Users\Estudiante\Desktop\gilberto\POOHerencia\POOHerencia\obj\Debug\POOHerencia.pdb

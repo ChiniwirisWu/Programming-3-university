@@ -1,0 +1,9 @@
+C:\Users\Estudiante\Desktop\gilberto\perro_guau_guau\perro_guau_guau\bin\Debug\perro_guau_guau.exe.config
+C:\Users\Estudiante\Desktop\gilberto\perro_guau_guau\perro_guau_guau\bin\Debug\perro_guau_guau.exe
+C:\Users\Estudiante\Desktop\gilberto\perro_guau_guau\perro_guau_guau\bin\Debug\perro_guau_guau.pdb
+C:\Users\Estudiante\Desktop\gilberto\perro_guau_guau\perro_guau_guau\obj\Debug\perro_guau_guau.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\gilberto\perro_guau_guau\perro_guau_guau\obj\Debug\perro_guau_guau.Form1.resources
+C:\Users\Estudiante\Desktop\gilberto\perro_guau_guau\perro_guau_guau\obj\Debug\perro_guau_guau.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\gilberto\perro_guau_guau\perro_guau_guau\obj\Debug\perro_guau_guau.csproj.GenerateResource.Cache
+C:\Users\Estudiante\Desktop\gilberto\perro_guau_guau\perro_guau_guau\obj\Debug\perro_guau_guau.exe
+C:\Users\Estudiante\Desktop\gilberto\perro_guau_guau\perro_guau_guau\obj\Debug\perro_guau_guau.pdb

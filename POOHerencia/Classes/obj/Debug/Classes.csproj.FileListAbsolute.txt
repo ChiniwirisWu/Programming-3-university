@@ -1,0 +1,5 @@
+C:\Users\Estudiante\Desktop\gilberto\POOHerencia\Classes\bin\Debug\Classes.dll
+C:\Users\Estudiante\Desktop\gilberto\POOHerencia\Classes\bin\Debug\Classes.pdb
+C:\Users\Estudiante\Desktop\gilberto\POOHerencia\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\gilberto\POOHerencia\Classes\obj\Debug\Classes.dll
+C:\Users\Estudiante\Desktop\gilberto\POOHerencia\Classes\obj\Debug\Classes.pdb
